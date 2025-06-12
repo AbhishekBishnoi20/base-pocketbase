@@ -81,7 +81,7 @@ The container includes built-in health checks that:
 
 ## 📝 License
 
-[Your License Here]
+MIT License
 
 ## 🤝 Contributing
 
