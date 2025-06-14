@@ -1,7 +1,7 @@
 services:
   pocketbase:
     build: .
-    container_name: ${PB_NAME:?"Error: PB_NAME environment variable must be set"}
+    container_name: ${PB_NAME}
     restart: unless-stopped
     ports:
       - "8080:8080"
